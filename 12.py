@@ -1,0 +1,5 @@
+a=int(input("Prima găină a dat: "))
+b=int(input("A doua găină a dat: "))
+c=int(input("A treia găină a dat: "))
+d=int(input("A patra găină a dat: "))
+print((a+b+c+d)*7,"ouă săptămânal")

@@ -1,0 +1,11 @@
+#de la tastatura se introduce nr de rand al curcubeului.De afisat denumirea culorilor.
+n=int(input("dati nr culorii: "))
+if n==1:print("Rosu")
+if n==2:print("Oranj")
+if n==3:print("Galben")
+if n==4:print("Verde")
+if n==5:print("Albastru")
+if n==6:print("Indigo")
+if n==7:print("Violet")
+if(n>7) :print("Error:Curcubeul are 7 culori, introduceti un numar mai mic sau egal cu 7")
+if(n<1) :print("Error:Curcubeul are 7 culori, introduceti un numar mai mare sau egal cu 1")
